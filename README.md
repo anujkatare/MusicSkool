@@ -68,19 +68,10 @@ npm run lint
 - The project uses the `app` directory and server components where appropriate. Inspect `components/ui` for creative animation examples you can reuse.
 - If you customize Tailwind or PostCSS, update `postcss.config.mjs` and the Tailwind config accordingly.
 
-**Deployment**
-This project is ready for deployment on platforms that support Next.js (Vercel recommended). Run `npm run build` then `npm run start` for a production-ready server.
 
 **Contributing**
 Contributions are welcome. Open an issue or submit a pull request with a clear description of changes.
 
-**License**
-MIT — see LICENSE file if present.
 
 ---
 
-If you'd like, I can also:
-- run the dev server locally (`npm run dev`)
-- add a short contributing.md or deploy guide
-
-Let me know which you'd like next.
