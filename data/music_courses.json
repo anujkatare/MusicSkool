@@ -1,0 +1,126 @@
+{
+   "courses": [
+  {
+    "id": 1,
+    "title": "Beginner Guitar Mastery",
+    "slug": "beginner-guitar-mastery",
+    "description": "Learn acoustic and electric guitar basics including chords, strumming patterns, and simple songs.",
+    "price": 1999,
+    "instructor": "Amit Verma",
+    "isFeatured": true,
+    "image": "https://images.pexels.com/photos/8190038/pexels-photo-8190038.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Piano for Absolute Beginners",
+    "slug": "piano-for-absolute-beginners",
+    "description": "Step-by-step piano course covering notes, scales, hand coordination, and basic melodies.",
+    "price": 2499,
+    "instructor": "Neha Sharma",
+    "isFeatured": true,
+    "image": "https://images.pexels.com/photos/35255179/pexels-photo-35255179.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Advanced Vocal Training",
+    "slug": "advanced-vocal-training",
+    "description": "Improve vocal range, control, breathing techniques, and performance confidence.",
+    "price": 2999,
+    "instructor": "Rohit Malhotra",
+    "isFeatured": true,
+    "image": "https://images.pexels.com/photos/5650903/pexels-photo-5650903.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Music Production with FL Studio",
+    "slug": "music-production-fl-studio",
+    "description": "Learn beat making, mixing, mastering, and sound design using FL Studio.",
+    "price": 3499,
+    "instructor": "Kunal Singh",
+    "isFeatured": true,
+    "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Indian Classical Music Basics",
+    "slug": "indian-classical-music-basics",
+    "description": "Understand ragas, taals, swaras, and the foundation of Indian classical music.",
+    "price": 1799,
+    "instructor": "Pt. Suresh Mishra",
+    "isFeatured": true,
+    "image": "https://images.pexels.com/photos/33195574/pexels-photo-33195574.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "DJ Mixing & Live Performance",
+    "slug": "dj-mixing-live-performance",
+    "description": "Master DJ equipment, beat matching, transitions, and live crowd performance skills.",
+    "price": 3999,
+    "instructor": "Arjun Kapoor",
+    "isFeatured": true,
+    "image": "https://images.pexels.com/photos/2350325/pexels-photo-2350325.jpeg"
+  },
+  {
+  "id": 7,
+  "title": "Ukulele for Beginners",
+  "slug": "ukulele-for-beginners",
+  "description": "Learn basic ukulele chords, strumming styles, and popular beginner-friendly songs.",
+  "price": 1499,
+  "instructor": "Ananya Rao",
+  "isFeatured": false,
+  "image": "https://images.pexels.com/photos/164936/pexels-photo-164936.jpeg"
+},
+{
+  "id": 8,
+  "title": "Electronic Music Production",
+  "slug": "electronic-music-production",
+  "description": "Create EDM tracks by learning synths, drops, layering, and arrangement techniques.",
+  "price": 3599,
+  "instructor": "Rahul Mehta",
+  "isFeatured": true,
+  "image": "https://images.pexels.com/photos/164745/pexels-photo-164745.jpeg"
+},
+{
+  "id": 9,
+  "title": "Songwriting Essentials",
+  "slug": "songwriting-essentials",
+  "description": "Learn lyrics writing, song structure, melody creation, and emotional storytelling.",
+  "price": 2199,
+  "instructor": "Sneha Iyer",
+  "isFeatured": false,
+  "image": "https://images.pexels.com/photos/210764/pexels-photo-210764.jpeg"
+},
+{
+  "id": 10,
+  "title": "Tabla Fundamentals",
+  "slug": "tabla-fundamentals",
+  "description": "Master basic bols, hand techniques, rhythm patterns, and taals in tabla.",
+  "price": 1899,
+  "instructor": "Ustad Imran Khan",
+  "isFeatured": false,
+  "image": "https://media.istockphoto.com/id/468665786/photo/board.webp?a=1&b=1&s=612x612&w=0&k=20&c=jQduhNlCTUKTfRGTnkUaBpIadmqs4r-MHNuiRvvW2S8="
+},
+{
+  "id": 11,
+  "title": "Violin for Beginners",
+  "slug": "violin-for-beginners",
+  "description": "Learn violin posture, bowing techniques, finger placement, and simple compositions.",
+  "price": 2699,
+  "instructor": "Riya Sen",
+  "isFeatured": true,
+  "image": "https://media.istockphoto.com/id/2237994466/photo/beautiful-woman-playing-violin-at-sunset-outdoor-in-nature.webp?a=1&b=1&s=612x612&w=0&k=20&c=gIA1NYp6pCZz40UAqVx95RF-VhY4qu3Q7u4FvV6LkXs="
+},
+{
+  "id": 12,
+  "title": "Music Theory Made Easy",
+  "slug": "music-theory-made-easy",
+  "description": "Understand scales, chords, intervals, harmony, and rhythm in a simple way.",
+  "price": 1999,
+  "instructor": "Vikram Joshi",
+  "isFeatured": true,
+  "image": "https://images.pexels.com/photos/164879/pexels-photo-164879.jpeg"
+}
+
+]
+
+}
